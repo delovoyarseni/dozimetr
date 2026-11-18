@@ -41,7 +41,7 @@ The finished device after flashing:
 
 <div align="center">
   <img src="docs/render/dozimetr_1.jpg" alt="dozimetr, front view" width="360">
-  <img src="docs/render/dozimetr_2.jpg" alt="dozimetr, back view" width="360">
+  <img src="docs/render/dozimetr_6.jpg" alt="dozimetr, back view" width="360">
 </div>
 
 ---
