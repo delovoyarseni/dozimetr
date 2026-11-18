@@ -42,6 +42,7 @@
 <div align="center">
   <img src="docs/render/dozimetr_1.jpg" alt="dozimetr, вид спереди" width="360">
   <img src="docs/render/dozimetr_6.jpg" alt="dozimetr, вид сзади" width="360">
+  <img src="docs/render/dozimetr_3.jpg" alt="dozimetr, настройки" width="360">
 </div>
 
 ---
