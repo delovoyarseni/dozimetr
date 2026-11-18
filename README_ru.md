@@ -33,16 +33,6 @@
 - ⚡ Один Li-ion элемент (3.7 В): повышается до 5 В для электроники и до примерно 410 В для трубки
 - 💸 Недорогие доступные детали, своя печатная плата не нужна
 
-**Как это работает**
-
-```
-Li-ion 3.7 В ──► повышение до 5 В ──► Arduino Nano, дисплей, светодиод
-                       │
-                       └──► высоковольтный модуль (~410 В) ──► 10 МОм ──► трубка СТС-5
-                                                                           │
- частица ──► импульс ──► каскад на 2N3904 ──► пин D2 ──► скорость счёта ──► мкЗв/ч ──► дисплей, зуммер, светодиод
-```
-
 ---
 
 ## 🖼️ Рендеры
@@ -50,8 +40,8 @@ Li-ion 3.7 В ──► повышение до 5 В ──► Arduino Nano, д�
 Готовое устройство после прошивки:
 
 <div align="center">
-  <img src="docs/renders/front.png" alt="dozimetr, вид спереди" width="360">
-  <img src="docs/renders/back.png" alt="dozimetr, вид сзади" width="360">
+  <img src="docs/render/dozimetr_1.jpg" alt="dozimetr, вид спереди" width="360">
+  <img src="docs/render/dozimetr_6.jpg" alt="dozimetr, вид сзади" width="360">
 </div>
 
 ---
@@ -59,7 +49,7 @@ Li-ion 3.7 В ──► повышение до 5 В ──► Arduino Nano, д�
 ## 🧰 Компоненты
 
 <div align="center">
-  <img src="docs/parts.png" alt="Список компонентов dozimetr" width="720">
+  <img src="docs/parts/dozimetr_parts_ru.png" alt="Список компонентов dozimetr" width="720">
 </div>
 
 | Компонент | Кол-во | Назначение |
@@ -84,7 +74,7 @@ Li-ion 3.7 В ──► повышение до 5 В ──► Arduino Nano, д�
 ## 🔧 Сборка
 
 <div align="center">
-  <img src="docs/schematic.png" alt="Схема подключения dozimetr" width="720">
+  <img src="docs/schematic/dozimetr_schematic_ru.png" alt="Схема подключения dozimetr" width="720">
 </div>
 
 **Таблица пинов**
@@ -123,7 +113,7 @@ Li-ion 3.7 В ──► повышение до 5 В ──► Arduino Nano, д�
 ## 🔌 Подключение и прошивка
 
 <div align="center">
-  <img src="docs/firmware.png" alt="Как загрузить прошивку" width="720">
+  <img src="docs/ota/dozimetr_firmware_ru.png" alt="Как загрузить прошивку" width="720">
 </div>
 
 > ⚠️ Перед подключением Arduino к компьютеру отключите от неё аккумулятор и высоковольтный преобразователь.
