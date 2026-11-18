@@ -4,7 +4,7 @@
 
 # ☢️ dozimetr
 
-**Build your own Geiger counter with Arduino Nano and an STS-5 tube**
+**Build your own Dozimetr with Arduino Nano and an STS-5 tube**
 
 ![License: MIT](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 ![Arduino Nano](https://img.shields.io/badge/Arduino-Nano-00979D?style=for-the-badge&logo=arduino&logoColor=white)
