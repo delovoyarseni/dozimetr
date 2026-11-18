@@ -4,7 +4,7 @@
 
 # ☢️ dozimetr
 
-**Соберите свой счётчик Гейгера на Arduino Nano и трубке СТС-5**
+**Соберите свой Дозиметр на Arduino Nano и трубке СТС-5**
 
 ![License: MIT](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 ![Arduino Nano](https://img.shields.io/badge/Arduino-Nano-00979D?style=for-the-badge&logo=arduino&logoColor=white)
